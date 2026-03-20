@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I AM SOMASHEKAR P J 
 
 # 💫 About Me:
 🔭 I’m currently working on ML models <br>👯 I’m looking to collaborate on AI agents<br>🤝 I’m looking for help with  My personal projects<br>🌱 I’m currently learning  Python ,LLM ,ML< NLP's<br>💬 Ask me about  Something Suspicious BUGS<br>📫 How to reach me  soma2626shekar@gmail.com<br>📝 I regularly write articles on<br>📄 Know about my experiences<br><br>⚡ Fun fact<br>I think I am funny<br>
