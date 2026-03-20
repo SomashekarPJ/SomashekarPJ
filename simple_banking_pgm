@@ -1,0 +1,57 @@
+#simple banking systems
+#balance,withdrawn,deposits,exit
+
+
+def  show_bal(balance):
+    print(f"Your balance is : ${balance:.2f}")
+
+def deposits():
+    amount=float(input("Enter the  amount to deposits:"))
+    if amount <0:
+        print("please enter a positive amount")
+        return 0
+    else:
+        return amount
+
+def withdraw(balance):
+    amount=float(input("Enter the amount to withdraw:"))
+    if amount > balance:
+
+        print("insufficient balance")
+        return 0
+    elif amount<0:
+        print("please enter a positive value ")
+        return 0
+    else:
+        return amount
+
+def main():
+     balance = 0
+
+     is_running = True
+
+
+     while is_running:
+         print("Enter your choice ")
+         print("1. Balance")
+         print("2. Withdraw")
+         print("3. Deposit")
+         print("4. Exit")
+         choice = str(input("Enter your choice(1-4) :  "))
+         if choice == "1":
+            show_bal(balance)
+         elif choice == "2":
+           balance-=withdraw(balance)
+         elif choice == "3":
+            balance+= deposits()
+         elif choice == "4":
+             is_running = False
+         else :
+             print("please enter a valid choice ")
+print("thank you have a nice day ")
+
+if  __name__=="__main__":
+    main()
+
+
+
