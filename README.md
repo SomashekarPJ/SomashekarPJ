@@ -1,30 +1,394 @@
-## Hi there 👋
-## I AM SOMASHEKAR P J 
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on ML models <br>👯 I’m looking to collaborate on AI agents<br>🤝 I’m looking for help with  My personal projects<br>🌱 I’m currently learning  Python,LLM,ML,NLPS<br>📫 How to reach me  soma2626shekar@gmail.com<br>📝 I regularly write articles on  http://deadlydotcom.wordpress.com <br>📄 Know about my experiences<br><br>⚡ Fun fact<br>I think I am funny<br>
+# 👋 Hi, I'm **Somashekar P J**
 
+### 🧠 AI/ML Engineer in the Making · Decision Systems Builder · Product Thinker
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soma.0_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)](www.linkedin.com/in/somashekar-p-j-77b192294) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/somashekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soma2626shekar@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+systems+that+help+people+make+better+decisions.;AI+%C3%97+ML+%C3%97+Full-Stack+%C3%97+Product+Thinking;Learning+by+building%2C+breaking%2C+and+rebuilding." alt="Typing intro"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SomashekarPJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SomashekarPJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomashekarPJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SomashekarPJ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SomashekarPJ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SomashekarPJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="31%" valign="top">
+
+## 🧑‍🚀 ABOUT ME
+
+**AI/ML Engineering Student**  
+**Problem Solver**  
+**Builder of Decision Systems**
+
+📍 India  
+🎓 Ghousia College of Engineering  
+🎓 2027 Passout
+
+<br>
+
+> **“I build systems that think,  
+> so humans can decide better.”**
+
+### 🔭 Currently Building
+
+🧠 **Decision OS v2**  
+AI-native Decision Intelligence
+
+🛡️ **CYNAPSE AI**  
+Cyber protection & scam detection
+
+🤖 **AI/ML experiments**  
+Models · LLMs · NLP · Agents
+
+### 📚 Currently Learning
+
+`Advanced ML`  
+`LLMs`  
+`NLP`  
+`AI Agents`  
+`MERN Stack`  
+`System Design`
+
+</td>
+
+<td width="69%" valign="top">
+
+# 🚀 SOMASHEKAR P J
+
+### `AI × ML × Decision Intelligence × Software`
+
+I don't want to build another collection of demos.
+
+I want this GitHub to become a **laboratory of systems** — experiments that start with a real problem, become software, get tested, break, improve, and eventually become something useful.
+
+### 🧭 My Direction
+
+```text
+                    ┌─────────────────────┐
+                    │       PROBLEM       │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │      EVIDENCE       │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │     AI REASONING    │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │    ALTERNATIVES     │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │      DECISION       │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │   HUMAN APPROVAL    │
+                    └──────────┬──────────┘
+                               ↓
+                    ┌─────────────────────┐
+                    │ OUTCOME → LEARNING  │
+                    └─────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Decision OS v2
+
+**AI-native Decision Intelligence Platform**
+
+A modular system for turning complex business problems into structured, explainable and auditable decision pipelines.
+
+**Core ideas**
+
+- Decision modeling
+- Evidence & constraints
+- AI reasoning engines
+- Alternative evaluation
+- Human approval
+- Audit trails
+- Decision memory
+- Outcome learning
+
+`Python` `ML` `AI` `Decision Intelligence`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ CYNAPSE AI
+
+**Smart Cyber Protection Platform**
+
+Designed to detect digital scams before they become costly mistakes.
+
+**Explores**
+
+- Fake website detection
+- AI impersonation detection
+- Scam conversation analysis
+- Suspicious UPI detection
+- Data-breach awareness
+- App permission analysis
+- Crypto wallet risk signals
+
+`React` `FastAPI` `AI` `Computer Vision`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📧 Spam Email Detector
+
+A machine-learning system for classifying spam and legitimate emails.
+
+**Model:** ML classification  
+**Accuracy:** ~78.82%
+
+`Python` `Machine Learning` `NLP`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Phantom Vault
+
+**AI-Powered Secure Sandbox & Threat Containment**
+
+A security-focused system concept combining isolated execution, resource controls, monitoring and AI-based threat scoring.
+
+`FastAPI` `Docker` `Python` `Cybersecurity`
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<br><br>
+
+### 💻 Full Stack
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css" />
+
+<br><br>
+
+### 🗄️ Data & Backend
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,fastapi" />
+
+<br><br>
+
+### 🛠️ Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel" />
+
+</div>
+
+---
+
+# 🧪 How I Build
+
+<table>
+<tr>
+<td align="center">01<br><b>THINK</b><br>Understand the problem</td>
+<td align="center">→</td>
+<td align="center">02<br><b>MODEL</b><br>Structure the solution</td>
+<td align="center">→</td>
+<td align="center">03<br><b>BUILD</b><br>Ship a working system</td>
+</tr>
+<tr>
+<td align="center">06<br><b>SHIP</b><br>Make it usable</td>
+<td align="center">←</td>
+<td align="center">05<br><b>ITERATE</b><br>Improve the system</td>
+<td align="center">←</td>
+<td align="center">04<br><b>BREAK</b><br>Test its limits</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Think deeply → Build quickly → Measure honestly → Iterate relentlessly**
+
+</div>
+
+---
+
+# 📊 GitHub Command Center
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SomashekarPJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=SomashekarPJ%20%7C%20Engineering%20Activity" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SomashekarPJ&theme=tokyonight&hide_border=true" height="170"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomashekarPJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+</div>
+
+---
+
+# 🌌 The Bigger Mission
+
+Most software follows:
+
+```text
+INPUT → PROCESS → OUTPUT
+```
+
+I'm interested in systems that can move toward:
+
+```text
+PROBLEM
+   ↓
+CONTEXT
+   ↓
+EVIDENCE
+   ↓
+REASONING
+   ↓
+OPTIONS
+   ↓
+DECISION
+   ↓
+ACTION
+   ↓
+OUTCOME
+   ↓
+LEARNING
+   ↺
+```
+
+That is why I'm exploring the intersection of:
+
+**AI Agents + Decision Intelligence + Organizational Memory + Software Systems**
+
+The long-term goal is to understand how AI can become part of the **decision infrastructure of a business**, rather than simply another chatbot.
+
+---
+
+# 🏆 Builder Mode
+
+I enjoy working on:
+
+`Hackathons` · `Datathons` · `AI Experiments` · `Product Ideas` · `Rapid Prototypes`
+
+I've learned that the best projects usually begin with:
+
+> **“This should be possible.”**
+
+and end with:
+
+> **“Let's see if it actually works.”**
+
+---
+
+# 📈 My Learning Loop
+
+<div align="center">
+
+```text
+       ┌─────────┐
+       │  LEARN  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  BUILD  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  BREAK  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  DEBUG  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │UNDERSTAND│
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │ REBUILD │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  SHIP   │
+       └────┬────┘
+            │
+            └──────────────→ REPEAT
+```
+
+</div>
+
+---
+
+# 🤝 Let's Build
+
+I'm especially interested in collaborating on:
+
+- 🤖 AI Agents
+- 🧠 Decision Intelligence
+- 🧩 AI-native products
+- 🔬 Machine Learning systems
+- 🛠️ Developer tools
+- 🚀 Hackathon projects
+- 🌐 Full-stack AI applications
+- 💡 Weird ideas that might actually work
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/somashekar-p-j-77b192294/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:soma2626shekar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="http://deadlydotcom.wordpress.com">
+<img src="https://img.shields.io/badge/Writing-Read-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ I don't want my GitHub to be a portfolio.
+
+### I want it to be my **engineering lab.**
+
+<br>
+
+**Build. Break. Learn. Decide. Repeat.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=100&section=footer"/>
+
+</div>
+
