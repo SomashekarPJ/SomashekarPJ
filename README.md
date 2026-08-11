@@ -1,10 +1,14 @@
 <div align="center">
 
-# ![Typing Animation](https://waveify.onrender.com/api/typing/classic?text=%F0%9F%91%8B&speed=120&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=580&height=120&cursor=true&cursorColor=%23000000&type=classic&prompt=&easing=easeInOut&repeat=true&pauseTime=1600&glowEffect=true&soundEnabled=true&accessibility=%5Bobject+Object%5D) Hi, I'm **Somashekar P J**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=SOMASHEKAR+P+J;AI%2FML+ENGINEER+IN+THE+MAKING;SYSTEMS+BUILDER;PRODUCT+THINKER;THE+BORING+VIBE+CODER" alt="Somashekar P J"/>
 
-### 🧠 AI/ML Engineer in the Making · Decision Systems Builder · Product Thinker
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+systems+that+help+people+make+better+decisions.;AI+%C3%97+ML+%C3%97+Full-Stack+%C3%97+Product+Thinking;Learning+by+building%2C+breaking%2C+and+rebuilding." alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=850&lines=Building+systems+that+solve+real+problems.;AI+%C3%97+ML+%C3%97+SOFTWARE+%C3%97+PRODUCT.;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Ship.;Not+just+another+portfolio." alt="Animated introduction"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=2&section=header"/>
 
 </div>
 
@@ -14,83 +18,75 @@
 <tr>
 <td width="31%" valign="top">
 
-## 🧑‍🚀 ABOUT ME
+# 🧑‍🚀 ABOUT ME
 
 **AI/ML Engineering Student**  
 **Problem Solver**  
-**Builder of Decision Systems**
+**Systems Builder**  
+**Product Thinker**
 
 📍 India  
 🎓 Ghousia College of Engineering  
 🎓 2027 Passout
 
-<br>
+> **I don't want to build software that only executes.**  
+> **I want to build software that helps people think, act and solve.**
 
-> **“I build systems that think,  
-> so humans can decide better.”**
+### 🔭 CURRENT FOCUS
 
-### 🔭 Currently Building
-
-🧠 **Decision OS v2**  
-AI-native Decision Intelligence
-
-🛡️ **CYNAPSE AI**  
-Cyber protection & scam detection
-
-🤖 **AI/ML experiments**  
-Models · LLMs · NLP · Agents
-
-### 📚 Currently Learning
-
-`Advanced ML`  
+`Machine Learning`  
 `LLMs`  
 `NLP`  
 `AI Agents`  
-`MERN Stack`  
-`System Design`
+`Full-Stack Engineering`  
+`System Design`  
+`Cybersecurity`
+
+### 🧠 CURRENT MINDSET
+
+```text
+Learn → Build → Break → Understand → Rebuild → Ship → Repeat
+```
 
 </td>
 
 <td width="69%" valign="top">
 
-# 🚀 SOMASHEKAR P J
+# ⚡ THE BUILDER
 
-### `AI × ML × Decision Intelligence × Software`
+### `AI × ML × SOFTWARE × REAL-WORLD PROBLEMS`
 
-I don't want to build another collection of demos.
+I like taking ambiguous problems and turning them into working systems.
 
-I want this GitHub to become a **laboratory of systems** — experiments that start with a real problem, become software, get tested, break, improve, and eventually become something useful.
+Not every repository here is meant to be a polished product.
 
-### 🧭 My Direction
+`Experiments` · `Hackathon builds` · `Engineering labs` · `Product prototypes` · `Learning projects`
+
+### 🧭 HOW I THINK
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1700&pause=450&color=8B5CF6&center=true&vCenter=true&width=750&lines=PROBLEM+%E2%86%92+CONTEXT+%E2%86%92+EVIDENCE;EVIDENCE+%E2%86%92+REASONING+%E2%86%92+OPTIONS;OPTIONS+%E2%86%92+DECISION+%E2%86%92+ACTION;ACTION+%E2%86%92+OUTCOME+%E2%86%92+LEARNING;LEARNING+%E2%86%92+BETTER+SYSTEMS+%E2%86%92+%E2%86%BA" alt="Animated thinking flow"/>
+
+</div>
 
 ```text
-                    ┌─────────────────────┐
-                    │       PROBLEM       │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │      EVIDENCE       │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │     AI REASONING    │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │    ALTERNATIVES     │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │      DECISION       │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │   HUMAN APPROVAL    │
-                    └──────────┬──────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │ OUTCOME → LEARNING  │
-                    └─────────────────────┘
+PROBLEM
+   ↓
+CONTEXT
+   ↓
+EVIDENCE
+   ↓
+REASONING
+   ↓
+OPTIONS
+   ↓
+ACTION
+   ↓
+OUTCOME
+   ↓
+LEARNING
+   ↺
 ```
 
 </td>
@@ -99,136 +95,196 @@ I want this GitHub to become a **laboratory of systems** — experiments that st
 
 ---
 
-# 🧠 Featured Projects
+<div align="center">
+
+# ⚡ FLAGSHIP SYSTEMS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=600&color=8B5CF6&center=true&vCenter=true&width=800&lines=Four+systems.;Four+different+problems.;One+engineering+mindset.;BUILD+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REBUILD." alt="Flagship systems"/>
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧠 Decision OS v2
+<div align="center">
 
-**AI-native Decision Intelligence Platform**
+# 🛡️ AEGIS
 
-A modular system for turning complex business problems into structured, explainable and auditable decision pipelines.
+### `SECURITY × SYSTEMS × ISOLATION`
 
-**Core ideas**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1400&pause=350&color=F43F5E&center=true&vCenter=true&width=400&lines=ISOLATE.;CONSTRAIN.;MONITOR.;CONTAIN.;DEFEND." alt="Aegis animation"/>
 
-- Decision modeling
-- Evidence & constraints
-- AI reasoning engines
-- Alternative evaluation
-- Human approval
-- Audit trails
-- Decision memory
-- Outcome learning
+</div>
 
-`Python` `ML` `AI` `Decision Intelligence`
+**OS-Level Secure Process Isolation & Sandbox Framework**
+
+A systems-engineering framework exploring secure execution, process isolation, resource governance and real-time threat telemetry.
+
+**Stack:** `Go` `Linux` `Docker` `React` `SSE` `Namespaces` `seccomp-BPF` `cgroups v2`
+
+<div align="center">
+<a href="https://github.com/SomashekarPJ/AEGIS"><img src="https://img.shields.io/badge/VIEW_AEGIS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛡️ CYNAPSE AI
+<div align="center">
 
-**Smart Cyber Protection Platform**
+# 🧠 CRIME IQ
 
-Designed to detect digital scams before they become costly mistakes.
+### `AI × INVESTIGATION × INTELLIGENCE`
 
-**Explores**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1400&pause=350&color=22D3EE&center=true&vCenter=true&width=400&lines=ASK.;INVESTIGATE.;CONNECT.;ANALYZE.;DISCOVER." alt="Crime IQ animation"/>
 
-- Fake website detection
-- AI impersonation detection
-- Scam conversation analysis
-- Suspicious UPI detection
-- Data-breach awareness
-- App permission analysis
-- Crypto wallet risk signals
+</div>
 
-`React` `FastAPI` `AI` `Computer Vision`
+**AI-Powered Conversational Investigation Platform**
+
+A conversational intelligence system designed to help investigators query and understand crime data using natural language.
+
+**Stack:** `JavaScript` `TypeScript` `AI` `Conversational Search` `Data Visualization`
+
+**Architecture:** `CRIME-IQ-` + `Crime-IQ-frontend-`
+
+<div align="center">
+<a href="https://github.com/SomashekarPJ/CRIME-IQ-"><img src="https://img.shields.io/badge/BACKEND-6366F1?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/SomashekarPJ/Crime-IQ-frontend-"><img src="https://img.shields.io/badge/FRONTEND-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 📧 Spam Email Detector
+<div align="center">
 
-A machine-learning system for classifying spam and legitimate emails.
+# 🫂 SAFECIRCLE
 
-**Model:** ML classification  
-**Accuracy:** ~78.82%
+### `AI × HUMANITY × SAFETY`
 
-`Python` `Machine Learning` `NLP`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1400&pause=350&color=22C55E&center=true&vCenter=true&width=400&lines=REMEMBER.;RECOGNIZE.;GUIDE.;PROTECT.;CONNECT." alt="SafeCircle animation"/>
+
+</div>
+
+**AI Cognitive Bridge for Independence & Safety**
+
+A human-centered AI system designed to support people living with cognitive decline while giving caregivers intelligent monitoring and memory tools.
+
+**Stack:** `React` `Tailwind CSS` `Framer Motion` `Gemini AI` `Firebase` `Facial Recognition`
+
+<div align="center">
+<a href="https://github.com/SomashekarPJ/SafeCircle"><img src="https://img.shields.io/badge/VIEW_SAFECIRCLE-22C55E?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Phantom Vault
+<div align="center">
 
-**AI-Powered Secure Sandbox & Threat Containment**
+# 🕵️ CYNAPSE AI
 
-A security-focused system concept combining isolated execution, resource controls, monitoring and AI-based threat scoring.
+### `AI × CYBER × DIGITAL SAFETY`
 
-`FastAPI` `Docker` `Python` `Cybersecurity`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1400&pause=350&color=F59E0B&center=true&vCenter=true&width=400&lines=DETECT.;ANALYZE.;WARN.;VERIFY.;PROTECT." alt="Cynapse animation"/>
+
+</div>
+
+**AI-Powered Digital Scam Protection**
+
+A security project exploring how AI can identify manipulation, impersonation and suspicious digital activity before users make costly mistakes.
+
+**Stack:** `Python` `AI` `Computer Vision` `Scam Detection` `Risk Analysis`
+
+<div align="center">
+<a href="https://github.com/SomashekarPJ/CYNAPSE-AI"><img src="https://img.shields.io/badge/VIEW_CYNAPSE-F59E0B?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# ⚙️ Tech Arsenal
+# 🧪 PROJECT LAB
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1600&pause=400&color=22C55E&center=true&vCenter=true&width=700&lines=%24+ls+%7E%2Fprojects;%24+loading+experiments...;%24+systems+%3A%3D+learning+in+public;%24+still+building..." alt="Project terminal animation"/>
+
+</div>
+
+## 🛡️ SECURITY LAB
+
+| Project | What it explores |
+|---|---|
+| [**Firewall Config & Traffic Filtering Lab**](https://github.com/SomashekarPJ/Firewall-Config-Traffic-Filtering-Lab) | Network traffic filtering and firewall configuration |
+| [**ScamShield**](https://github.com/SomashekarPJ/scamshield) | Digital scam protection and security exploration |
+
+## 🧠 AI / HACKATHON LAB
+
+| Project | What it explores |
+|---|---|
+| [**3LC Hackathon**](https://github.com/SomashekarPJ/hackathon-3lC) | Data-centric AI / ML experimentation |
+| [**Election Assistant**](https://github.com/SomashekarPJ/Election-Assistant) | Local-first election guidance and civic information |
+
+## 💻 SOFTWARE ENGINEERING LAB
+
+| Project | What it explores |
+|---|---|
+| [**Portfolio**](https://github.com/SomashekarPJ/Portfolio) | Personal portfolio engineering |
+| [**Book REST API**](https://github.com/SomashekarPJ/book-rest-api-) | REST API / backend development |
+| [**Responsive Design Studio**](https://github.com/SomashekarPJ/responsive-design---css-media-queries-studio) | Responsive frontend engineering |
+| [**Landing Page**](https://github.com/SomashekarPJ/landing-page) | UI / CSS / frontend practice |
+| [**Apathy OS**](https://github.com/SomashekarPJ/Apathy-os) | Experimental software / interface work |
+
+---
+
+# ⚙️ TECH ARSENAL
 
 <div align="center">
 
 ### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-<br><br>
-
-### 💻 Full Stack
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 
 <br><br>
 
-### 🗄️ Data & Backend
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,fastapi" />
+### 💻 FULL STACK
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css"/>
 
 <br><br>
 
-### 🛠️ Engineering Tools
+### 🗄️ DATA / BACKEND
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,fastapi,firebase"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel" />
+<br><br>
+
+### 🛡️ SYSTEMS / ENGINEERING
+<img src="https://skillicons.dev/icons?i=go,docker,linux,git,github,vscode,figma,vercel"/>
 
 </div>
 
 ---
 
-# 🧪 How I Build
-
-<table>
-<tr>
-<td align="center">01<br><b>THINK</b><br>Understand the problem</td>
-<td align="center">→</td>
-<td align="center">02<br><b>MODEL</b><br>Structure the solution</td>
-<td align="center">→</td>
-<td align="center">03<br><b>BUILD</b><br>Ship a working system</td>
-</tr>
-<tr>
-<td align="center">06<br><b>SHIP</b><br>Make it usable</td>
-<td align="center">←</td>
-<td align="center">05<br><b>ITERATE</b><br>Improve the system</td>
-<td align="center">←</td>
-<td align="center">04<br><b>BREAK</b><br>Test its limits</td>
-</tr>
-</table>
+# 🧪 HOW I BUILD
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1100&pause=250&color=8B5CF6&center=true&vCenter=true&width=800&lines=01.+THINK;02.+UNDERSTAND;03.+MODEL;04.+BUILD;05.+BREAK;06.+DEBUG;07.+ITERATE;08.+SHIP;09.+REPEAT+%E2%88%9E" alt="Build loop"/>
+
+<br><br>
+
+**THINK** → **MODEL** → **BUILD** → **BREAK** → **DEBUG** → **ITERATE** → **SHIP** → **REPEAT**
+
+<br><br>
 
 **Think deeply → Build quickly → Measure honestly → Iterate relentlessly**
 
@@ -236,7 +292,53 @@ A security-focused system concept combining isolated execution, resource control
 
 ---
 
-# 📊 GitHub Command Center
+# 🌌 THE BIGGER MISSION
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2100&pause=600&color=6366F1&center=true&vCenter=true&width=850&lines=INPUT+%E2%86%92+PROCESS+%E2%86%92+OUTPUT;PROBLEM+%E2%86%92+CONTEXT+%E2%86%92+EVIDENCE;EVIDENCE+%E2%86%92+REASONING+%E2%86%92+OPTIONS;OPTIONS+%E2%86%92+DECISION+%E2%86%92+ACTION;ACTION+%E2%86%92+OUTCOME+%E2%86%92+LEARNING;LEARNING+%E2%86%92+BETTER+SYSTEMS+%E2%86%92+%E2%86%BA" alt="Mission animation"/>
+
+</div>
+
+I'm interested in the intersection of:
+
+<div align="center">
+
+`🤖 AI AGENTS` · `🧠 INTELLIGENCE SYSTEMS` · `🛡️ SECURITY` · `⚙️ SOFTWARE ENGINEERING` · `🚀 PRODUCT THINKING`
+
+</div>
+
+> **What happens when software doesn't just execute instructions, but becomes part of how people and organizations solve problems?**
+
+That's the question behind many of the things I build.
+
+---
+
+# 🏆 BUILDER MODE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1700&pause=450&color=F59E0B&center=true&vCenter=true&width=750&lines=HACKATHONS;DATATHONS;AI+EXPERIMENTS;SYSTEMS+ENGINEERING;PRODUCT+PROTOTYPES;REAL-WORLD+PROBLEMS" alt="Builder mode"/>
+
+</div>
+
+```text
+"This should be possible."
+          ↓
+       BUILD IT
+          ↓
+"Does it actually work?"
+          ↓
+       BREAK IT
+          ↓
+   UNDERSTAND WHY
+          ↓
+     BUILD AGAIN
+```
+
+---
+
+# 📊 GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -252,125 +354,39 @@ A security-focused system concept combining isolated execution, resource control
 
 ---
 
-# 🌌 The Bigger Mission
-
-Most software follows:
-
-```text
-INPUT → PROCESS → OUTPUT
-```
-
-I'm interested in systems that can move toward:
-
-```text
-PROBLEM
-   ↓
-CONTEXT
-   ↓
-EVIDENCE
-   ↓
-REASONING
-   ↓
-OPTIONS
-   ↓
-DECISION
-   ↓
-ACTION
-   ↓
-OUTCOME
-   ↓
-LEARNING
-   ↺
-```
-
-That is why I'm exploring the intersection of:
-
-**AI Agents + Decision Intelligence + Organizational Memory + Software Systems**
-
-The long-term goal is to understand how AI can become part of the **decision infrastructure of a business**, rather than simply another chatbot.
-
----
-
-# 🏆 Builder Mode
-
-I enjoy working on:
-
-`Hackathons` · `Datathons` · `AI Experiments` · `Product Ideas` · `Rapid Prototypes`
-
-I've learned that the best projects usually begin with:
-
-> **“This should be possible.”**
-
-and end with:
-
-> **“Let's see if it actually works.”**
-
----
-
-# 📈 My Learning Loop
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-```text
-       ┌─────────┐
-       │  LEARN  │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │  BUILD  │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │  BREAK  │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │  DEBUG  │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │UNDERSTAND│
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │ REBUILD │
-       └────┬────┘
-            ↓
-       ┌─────────┐
-       │  SHIP   │
-       └────┬────┘
-            │
-            └──────────────→ REPEAT
-```
+<img src="https://raw.githubusercontent.com/SomashekarPJ/SomashekarPJ/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Build
-
-I'm especially interested in collaborating on:
-
-- 🤖 AI Agents
-- 🧠 Decision Intelligence
-- 🧩 AI-native products
-- 🔬 Machine Learning systems
-- 🛠️ Developer tools
-- 🚀 Hackathon projects
-- 🌐 Full-stack AI applications
-- 💡 Weird ideas that might actually work
+# 📈 CURRENT LEARNING STATUS
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/somashekar-p-j-77b192294/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:soma2626shekar@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="http://deadlydotcom.wordpress.com">
-<img src="https://img.shields.io/badge/Writing-Read-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1300&pause=400&color=22C55E&center=true&vCenter=true&width=800&lines=Python+%E2%9C%93;Machine+Learning+%E2%9C%93;Deep+Learning+%E2%9C%93;LLMs+%E2%86%92+LEARNING;NLP+%E2%86%92+LEARNING;AI+Agents+%E2%86%92+EXPLORING;MERN+%E2%86%92+BUILDING;System+Design+%E2%86%92+LEVELING+UP" alt="Learning status"/>
+
+</div>
+
+---
+
+# 🤝 LET'S BUILD
+
+<div align="center">
+
+`AI AGENTS` · `MACHINE LEARNING` · `CYBERSECURITY`  
+`AI-NATIVE PRODUCTS` · `DEVELOPER TOOLS` · `HACKATHONS`  
+`FULL-STACK AI` · `SYSTEMS ENGINEERING` · `CRAZY IDEAS`
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/somashekar-p-j-77b192294/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:soma2626shekar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="http://deadlydotcom.wordpress.com"><img src="https://img.shields.io/badge/WRITING-READ-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 
 </div>
 
@@ -378,17 +394,10 @@ I'm especially interested in collaborating on:
 
 <div align="center">
 
-### ⚡ I don't want my GitHub to be a portfolio.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2100&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=I+DON'T+WANT+MY+GITHUB+TO+BE+A+PORTFOLIO.;I+WANT+IT+TO+BE+MY+ENGINEERING+LAB.;BUILD.+BREAK.+LEARN.+DECIDE.+REPEAT." alt="Closing animation"/>
 
-### I want it to be my **engineering lab.**
+<br><br>
 
-<br>
-
-**Build. Break. Learn. Decide. Repeat.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer" alt="Animated footer"/>
 
 </div>
-
