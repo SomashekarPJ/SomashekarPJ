@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Somashekar P J**
+# ![Typing Animation](https://waveify.onrender.com/api/typing/classic?text=%F0%9F%91%8B&speed=120&color=%23000000&backgroundColor=%23ffffff&fontSize=20&fontFamily=monospace&width=580&height=120&cursor=true&cursorColor=%23000000&type=classic&prompt=&easing=easeInOut&repeat=true&pauseTime=1600&glowEffect=true&soundEnabled=true&accessibility=%5Bobject+Object%5D) Hi, I'm **Somashekar P J**
 
 ### 🧠 AI/ML Engineer in the Making · Decision Systems Builder · Product Thinker
 
