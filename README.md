@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://github.com/SomashekarPJ/SomashekarPJ/blob/main/snap-story.gif"
 <img src="assets/snap-story.gif" alt="The Snap Bot welcomes you, snaps, and the projects reassemble from dust" width="100%"/>
 
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+systems+that+solve+real+problems.;AI+%C3%97+ML+%C3%97+SOFTWARE+%C3%97+PRODUCT.;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Ship.;Not+just+another+portfolio.)](https://github.com/SomashekarPJ)
