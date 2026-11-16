@@ -1,108 +1,88 @@
 <div align="center">
-<img src="https://github.com/SomashekarPJ/SomashekarPJ/blob/main/snap-story.gif"
-<img src="assets/snap-story.gif" alt="The Snap Bot welcomes you, snaps, and the projects reassemble from dust" width="100%"/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+systems+that+solve+real+problems.;AI+%C3%97+ML+%C3%97+SOFTWARE+%C3%97+PRODUCT.;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Ship.;Not+just+another+portfolio.)](https://github.com/SomashekarPJ)
+<img src="assets/hero.svg" alt="SomashekarPJ.exe - Welcome to my Homepage" width="100%"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=SomashekarPJ&color=8B5CF6&style=for-the-badge&label=VISITORS)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somashekar-p-j-77b192294/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soma2626shekar@gmail.com)
-[![Blog](https://img.shields.io/badge/WRITING-READ-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white)](http://deadlydotcom.wordpress.com)
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=SomashekarPJ&label=YOU+ARE+VISITOR+NO.&color=000080&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somashekar-p-j-77b192294/)
+[![Email](https://img.shields.io/badge/E--Mail-Contact-800000?style=flat-square&logo=gmail&logoColor=white)](mailto:soma2626shekar@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Read-008000?style=flat-square&logo=wordpress&logoColor=white)](http://deadlydotcom.wordpress.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-800080?style=flat-square&logo=github&logoColor=white)](https://github.com/SomashekarPJ/Portfolio)
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:0D1117&height=2&section=header)
+<br/>
 
-## 🧑‍🚀 ABOUT ME
+<img src="assets/sec-about.svg" alt="ABOUT.TXT" width="100%"/>
 
-**AI/ML Engineering Student · Problem Solver · Systems Builder · Product Thinker**
-
-📍 India  🎓 Ghousia College of Engineering · Class of 2027
+```text
+ ============================================================
+   SYSTEM PROPERTIES                                  [ OK ]
+ ============================================================
+   Name ......... Somashekar P J  (goes by "Deadly")
+   Role ......... AI/ML Engineering Student
+   College ...... Ghousia College of Engineering, Ramanagar
+   Class of ..... 2027
+   Location ..... India
+   Focus ........ ML | LLMs | NLP | AI Agents | Full-Stack
+                  System Design | Cybersecurity
+   Motto ........ Learn > Build > Break > Understand > Ship
+ ============================================================
+```
 
 > **I don't want to build software that only executes.**
 > **I want to build software that helps people think, act and solve.**
 
-```text
-Learn → Build → Break → Understand → Rebuild → Ship → Repeat
-```
+<br/>
 
-🔭 **Current focus:** `Machine Learning` `LLMs` `NLP` `AI Agents` `Full-Stack` `System Design` `Cybersecurity`
-
----
-
-## 🫰 THE SNAP: FLAGSHIP SYSTEMS
-
-> Half of all side projects never ship. Mine reassemble from dust. Click any card to open the repo.
+<img src="assets/sec-projects.svg" alt="PROJECTS.EXE" width="100%"/>
 
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/SomashekarPJ/AEGIS"><img src="assets/card-1.svg" alt="AEGIS" width="430"/></a></td>
-<td><a href="https://github.com/SomashekarPJ/CRIME-IQ-"><img src="assets/card-2.svg" alt="Crime IQ" width="430"/></a></td>
+<td><a href="https://github.com/SomashekarPJ/AEGIS"><img src="assets/card-1.svg" alt="AEGIS" width="440"/></a></td>
+<td><a href="https://github.com/SomashekarPJ/CRIME-IQ-"><img src="assets/card-2.svg" alt="CRIME-IQ" width="440"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SomashekarPJ/SafeCircle"><img src="assets/card-3.svg" alt="SafeCircle" width="430"/></a></td>
-<td><a href="https://github.com/SomashekarPJ/CYNAPSE-AI"><img src="assets/card-4.svg" alt="Cynapse AI" width="430"/></a></td>
+<td><a href="https://github.com/SomashekarPJ/SafeCircle"><img src="assets/card-3.svg" alt="SafeCircle" width="440"/></a></td>
+<td><a href="https://github.com/SomashekarPJ/CYNAPSE-AI"><img src="assets/card-4.svg" alt="Cynapse AI" width="440"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SomashekarPJ/Election-Assistant"><img src="assets/card-5.svg" alt="Election Assistant" width="430"/></a></td>
-<td><a href="https://github.com/SomashekarPJ/scamshield"><img src="assets/card-6.svg" alt="ScamShield" width="430"/></a></td>
+<td><a href="https://github.com/SomashekarPJ/Election-Assistant"><img src="assets/card-5.svg" alt="Election Assistant" width="440"/></a></td>
+<td><a href="https://github.com/SomashekarPJ/scamshield"><img src="assets/card-6.svg" alt="ScamShield" width="440"/></a></td>
 </tr>
 </table>
 </div>
 
-<sub>Crime IQ is split into [backend](https://github.com/SomashekarPJ/CRIME-IQ-) and [frontend](https://github.com/SomashekarPJ/Crime-IQ-frontend-).</sub>
+<sub>Click any window to open its repository. Crime IQ also has a [frontend repo](https://github.com/SomashekarPJ/Crime-IQ-frontend-).</sub>
 
----
+<br/>
 
-## 🧪 PROJECT LAB
+<img src="assets/sec-lab.svg" alt="EXPLORER" width="100%"/>
 
-<details open>
-<summary><b>🛡️ Security Lab</b></summary>
+| Folder | Item | Contents |
+| :--- | :--- | :--- |
+| `\SECURITY` | [Firewall Config & Traffic Filtering Lab](https://github.com/SomashekarPJ/Firewall-Config-Traffic-Filtering-Lab) | Network traffic filtering and firewall configuration |
+| `\SECURITY` | [ScamShield](https://github.com/SomashekarPJ/scamshield) | Digital scam protection |
+| `\AI` | [3LC Hackathon](https://github.com/SomashekarPJ/hackathon-3lC) | Data-centric AI / ML experimentation |
+| `\AI` | [Election Assistant](https://github.com/SomashekarPJ/Election-Assistant) | Local-first election guidance |
+| `\SOFTWARE` | [Portfolio](https://github.com/SomashekarPJ/Portfolio) | Personal portfolio engineering |
+| `\SOFTWARE` | [Book REST API](https://github.com/SomashekarPJ/book-rest-api-) | REST / backend development |
+| `\SOFTWARE` | [Responsive Design Studio](https://github.com/SomashekarPJ/responsive-design---css-media-queries-studio) | Responsive frontend engineering |
+| `\SOFTWARE` | [Landing Page](https://github.com/SomashekarPJ/landing-page) | UI / CSS practice |
+| `\SOFTWARE` | [Apathy OS](https://github.com/SomashekarPJ/Apathy-os) | Experimental interface work |
 
-| Project | What it explores |
-| --- | --- |
-| [**Firewall Config & Traffic Filtering Lab**](https://github.com/SomashekarPJ/Firewall-Config-Traffic-Filtering-Lab) | Network traffic filtering and firewall configuration |
-| [**ScamShield**](https://github.com/SomashekarPJ/scamshield) | Digital scam protection |
+<br/>
 
-</details>
-
-<details open>
-<summary><b>🧠 AI / Hackathon Lab</b></summary>
-
-| Project | What it explores |
-| --- | --- |
-| [**3LC Hackathon**](https://github.com/SomashekarPJ/hackathon-3lC) | Data-centric AI / ML experimentation |
-| [**Election Assistant**](https://github.com/SomashekarPJ/Election-Assistant) | Local-first election guidance |
-
-</details>
-
-<details open>
-<summary><b>💻 Software Engineering Lab</b></summary>
-
-| Project | What it explores |
-| --- | --- |
-| [**Portfolio**](https://github.com/SomashekarPJ/Portfolio) | Personal portfolio engineering |
-| [**Book REST API**](https://github.com/SomashekarPJ/book-rest-api-) | REST / backend development |
-| [**Responsive Design Studio**](https://github.com/SomashekarPJ/responsive-design---css-media-queries-studio) | Responsive frontend engineering |
-| [**Landing Page**](https://github.com/SomashekarPJ/landing-page) | UI / CSS practice |
-| [**Apathy OS**](https://github.com/SomashekarPJ/Apathy-os) | Experimental interface work |
-
-</details>
-
----
-
-## 🧭 HOW I THINK
+<img src="assets/sec-skills.svg" alt="SKILLS.DLL" width="100%"/>
 
 ```text
-PROBLEM → CONTEXT → EVIDENCE → REASONING → OPTIONS → DECISION → ACTION → OUTCOME → LEARNING ↺
+C:\> run thinking.bat
+
+  PROBLEM > CONTEXT > EVIDENCE > REASONING > OPTIONS
+          > DECISION > ACTION > OUTCOME > LEARNING > (repeat)
 ```
-
-**THINK → MODEL → BUILD → BREAK → DEBUG → ITERATE → SHIP → REPEAT**
-
----
-
-## ⚙️ TECH ARSENAL
 
 <div align="center">
 
@@ -113,37 +93,39 @@ PROBLEM → CONTEXT → EVIDENCE → REASONING → OPTIONS → DECISION → ACTI
 
 </div>
 
----
+<br/>
 
-## 📊 GITHUB COMMAND CENTER
+<img src="assets/sec-stats.svg" alt="STATS.DAT" width="100%"/>
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=SomashekarPJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=SomashekarPJ%20%7C%20Engineering%20Activity)](https://github.com/SomashekarPJ)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SomashekarPJ&theme=tokyonight&hide_border=true)](https://github.com/SomashekarPJ)
+[![Stats](https://github-readme-stats.vercel.app/api?username=SomashekarPJ&show_icons=true&hide_border=true&bg_color=C0C0C0&title_color=000080&text_color=000000&icon_color=000080&ring_color=000080&custom_title=SomashekarPJ%20-%20Activity)](https://github.com/SomashekarPJ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomashekarPJ&layout=compact&hide_border=true&bg_color=C0C0C0&title_color=000080&text_color=000000&langs_count=8)](https://github.com/SomashekarPJ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomashekarPJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/SomashekarPJ)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SomashekarPJ&hide_border=true&background=C0C0C0&ring=000080&fire=FF0000&currStreakLabel=000080&sideLabels=000080&currStreakNum=000000&sideNums=000000&dates=555555)](https://github.com/SomashekarPJ)
 
-### 🐍 Contribution Activity
-
-![Snake](https://raw.githubusercontent.com/SomashekarPJ/SomashekarPJ/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/SomashekarPJ/SomashekarPJ/output/github-contribution-grid-snake.svg)
 
 </div>
 
----
+<br/>
 
-## 🌌 THE BIGGER MISSION
+<img src="assets/sec-contact.svg" alt="CONTACT.COM" width="100%"/>
 
-`🤖 AI AGENTS` · `🧠 INTELLIGENCE SYSTEMS` · `🛡️ SECURITY` · `⚙️ SOFTWARE ENGINEERING` · `🚀 PRODUCT THINKING`
-
-> **What happens when software doesn't just execute instructions, but becomes part of how people and organizations solve problems?**
-
----
+```text
+ +----------------------------------------------------------+
+ |  Connecting to SomashekarPJ ...........  [ CONNECTED ]   |
+ |                                                          |
+ |  Open to:  collaborations | internships | hackathons     |
+ |            AI / ML | security | product engineering      |
+ +----------------------------------------------------------+
+```
 
 <div align="center">
 
-[![Closing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2100&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=I+DON'T+WANT+MY+GITHUB+TO+BE+A+PORTFOLIO.;I+WANT+IT+TO+BE+MY+ENGINEERING+LAB.;BUILD.+BREAK.+LEARN.+DECIDE.+REPEAT.)](https://github.com/SomashekarPJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somashekar-p-j-77b192294/)
+[![Email](https://img.shields.io/badge/E--Mail-Say_Hello-800000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soma2626shekar@gmail.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:06B6D4&height=120&section=footer)
+<img src="assets/footer.svg" alt="Thanks for visiting my homepage" width="100%"/>
 
 </div>
