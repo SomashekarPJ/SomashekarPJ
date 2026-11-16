@@ -7,7 +7,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=SomashekarPJ&label=YOU+ARE+VISITOR+NO.&color=000080&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000080?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somashekar-p-j-77b192294/)
 [![Email](https://img.shields.io/badge/E--Mail-Contact-800000?style=flat-square&logo=gmail&logoColor=white)](mailto:soma2626shekar@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Read-008000?style=flat-square&logo=wordpress&logoColor=white)](http://deadlydotcom.wordpress.com)
+[![Blog](https://img.shields.io/badge/Blog-Read-008000?style=flat-square&logo=wordpress&logoColor=white)](https://deadlydotcom.wordpress.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-800080?style=flat-square&logo=github&logoColor=white)](https://github.com/SomashekarPJ/Portfolio)
 
 </div>
@@ -38,22 +38,16 @@
 
 <img src="sec-projects.svg" alt="PROJECTS.EXE" width="100%"/>
 
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/SomashekarPJ/AEGIS"><img src="card-1.svg" alt="AEGIS" width="440"/></a></td>
-<td><a href="https://github.com/SomashekarPJ/CRIME-IQ-"><img src="card-2.svg" alt="CRIME-IQ" width="440"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SomashekarPJ/SafeCircle"><img src="card-3.svg" alt="SafeCircle" width="440"/></a></td>
-<td><a href="https://github.com/SomashekarPJ/CYNAPSE-AI"><img src="card-4.svg" alt="Cynapse AI" width="440"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SomashekarPJ/Election-Assistant"><img src="card-5.svg" alt="Election Assistant" width="440"/></a></td>
-<td><a href="https://github.com/SomashekarPJ/scamshield"><img src="card-6.svg" alt="ScamShield" width="440"/></a></td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://github.com/SomashekarPJ/AEGIS"><img src="card-1.svg" alt="AEGIS" width="420"/></a>
+  <a href="https://github.com/SomashekarPJ/CRIME-IQ-"><img src="card-2.svg" alt="CRIME-IQ" width="420"/></a>
+  <a href="https://github.com/SomashekarPJ/SafeCircle"><img src="card-3.svg" alt="SafeCircle" width="420"/></a>
+  <a href="https://github.com/SomashekarPJ/CYNAPSE-AI"><img src="card-4.svg" alt="Cynapse AI" width="420"/></a>
+  <a href="https://github.com/SomashekarPJ/factorymargin-AI"><img src="card-7.svg" alt="FactoryMargin AI" width="420"/></a>
+  <a href="https://github.com/SomashekarPJ/Decision-OSv2"><img src="card-8.svg" alt="Decision OS v2" width="420"/></a>
+  <a href="https://github.com/SomashekarPJ/Election-Assistant"><img src="card-5.svg" alt="Election Assistant" width="420"/></a>
+  <a href="https://github.com/SomashekarPJ/scamshield"><img src="card-6.svg" alt="ScamShield" width="420"/></a>
+</p>
 
 <sub>Click any window to open its repository. Crime IQ also has a [frontend repo](https://github.com/SomashekarPJ/Crime-IQ-frontend-).</sub>
 
@@ -108,7 +102,13 @@ C:\> run thinking.bat
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SomashekarPJ&hide_border=true&background=C0C0C0&ring=000080&fire=FF0000&currStreakLabel=000080&sideLabels=000080&currStreakNum=000000&sideNums=000000&dates=555555)](https://github.com/SomashekarPJ)
 
-[![Contributions](https://ghchart.rshah.org/000080/SomashekarPJ)](https://github.com/SomashekarPJ)
+<a href="https://github.com/SomashekarPJ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/1084D0/SomashekarPJ"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/000080/SomashekarPJ"/>
+    <img src="https://ghchart.rshah.org/000080/SomashekarPJ" alt="SomashekarPJ GitHub Contributions"/>
+  </picture>
+</a>
 
 </div>
 
